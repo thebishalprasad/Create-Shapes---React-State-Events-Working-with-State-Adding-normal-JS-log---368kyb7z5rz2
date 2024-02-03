@@ -1,16 +1,30 @@
-.square{
-    width: 75px;
-    height: 75px;
-    background-color: red;
-    text-align: center;
-    color: white;
+.bg-dark{
+    background-color: #1F1D36;
 }
 
-.circle{
-    width: 75px;
-    height: 75px;
-    background-color: purple;
-    border-radius: 50%;
-    text-align: center;
-    color: white;
+.bg-light{
+    background-color: #EEEEEE;
+}
+
+.txt-light{
+    color: #292929;
+}
+
+.txt-dark{
+    color:#f1f1f1;
+}
+.btn{
+    padding: 1rem 1.33rem;
+    border: none;
+    border-radius: 8px;
+}
+.btn-dark{
+    background-color: #005f5f;
+}
+.btn-light{
+    background-color: #88E0EF;
+}
+.container{
+    width: 500px;
+    height: 500px;
 }
